@@ -1,0 +1,7 @@
+crewai==1.15.27
+fastapi>=0.115
+uvicorn>=0.30
+python-dotenv>=1.0
+requests>=2.31
+pygame>=2.6
+pygbag>=0.9
